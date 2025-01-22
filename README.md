@@ -9,10 +9,10 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
 5.	**Cluster Analysis:** Analyze the resulting clusters to identify patterns and characteristics. Visualize the clusters using scatter plots or other appropriate techniques.
 6.	**Interpretation and Actionable Insights:** Interpret the characteristics of each cluster and develop targeted marketing strategies for each segment.
 ### Example Visualization:
-<a href="(https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)">Histogram plot</a>showing customer segmentation into 3 Potential Segments:
+<a href="(https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)">Histogram plot</a>,showing customer segmentation into 3 Potential Segments:
 -	    Age Distribution: Age Groups 28 to 35 are the most frequent users.
 -	    Annual_Income Distribution: Annual_Income Groups $60 to $75 are the most frequent users.
--	    Spending_Score Distribution: Spending_Score Groups 55 to 58 are the Most Frequent  users. 
+-	    Spending_Score Distribution: Spending_Score Groups 55 to 58 are the Most Frequent  users.
 •	High-Income Spenders: These customers have high annual incomes and high spending scores. They are likely to be interested in luxury brands and exclusive offers.
 •	Middle-Income Spenders: These customers have moderate annual incomes and moderate spending scores. They are price-conscious but still willing to spend on quality products.
 •	Low-Income Spenders: These customers have low annual incomes and low spending scores. They are likely to be attracted to discounts and promotions.
