@@ -15,7 +15,9 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
 -      Annual_Income Distribution: Customers who have Annaul_Income Range $60 to $75,they are most frequent buyer.
 -      Spending_Score Distribution: Maximum Spending_Score Groups are between the Range of 55 to 58.
 
-![Image-2](https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-2.JPG)
+<p align="center">
+  <img src="(https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)" alt="Image-1" width="600"/>
+</p>
 <a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG">Pie Chart</a>, showing customer segmentation through Gender into 2 Segments:
 -      Gender Distribution: From this graph, we can see that most of the customers are Female and, their percentage is 56% and The lowest percentage of Males is 44%.easily illustrate 
        this, the female customers purchase more products.
