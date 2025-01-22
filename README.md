@@ -10,8 +10,11 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
 6.	**Interpretation and Actionable Insights:** Interpret the characteristics of each cluster and develop targeted marketing strategies for each segment.
 ### Example Through Visualization:
 ![Image-1](https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)
+<p align="center">
+  <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-3.JPG" alt="Histogram with Hue" width="600"/>
+</p>
 <a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG">Histogram plot</a>, showing customer segmentation into 3 Potential Segments:<br>
--      Age Distribution: Age Groups 28-35 are the most Frequent Users.
+-      Age Distribution: Age Groups 27-32 are the most Frequent Users.
 -      Annual_Income Distribution: Customers who have Annaul_Income Range $60 to $75,they are most frequent buyer.
 -      Spending_Score Distribution: Maximum Spending_Score Groups are between the Range of 55 to 58.
 
@@ -22,8 +25,16 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
 -            Gender Distribution: From this graph, we can see that most of the customers are Female and, their percentage is 56% and The lowest percentage of Males is 44%.easily     
              illustrated this, the female customers purchase more products.
 
-  
-•	High-Income Spenders: These customers have high annual incomes and high spending scores. They are likely to be interested in luxury brands and exclusive offers.
-•	Middle-Income Spenders: These customers have moderate annual incomes and moderate spending scores. They are price-conscious but still willing to spend on quality products.
-•	Low-Income Spenders: These customers have low annual incomes and low spending scores. They are likely to be attracted to discounts and promotions.
-•	Low-Income Savers: These customers have low annual incomes but high savings rates. They are likely to be interested in value-for-money products and exclusive deals.
+<p align="center">
+  <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-4.JPG" alt="Scatter Plot" width="600"/>
+</p>
+<a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-4.JPG">Scatter Plot</a>, showing customer segmentation purpose Annual_income Vs Spending_Score plotting:<br>
+-            Annual_income Distribution: From this plot, we can see that the maximum annual income above $125 is 3 persons who are Males.
+
+<p align="center">
+  <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG" alt="Scatter Plot" width="600"/>
+</p>
+<a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG">Scatter Plot</a>, showing customer segmentation by 5 nos. Clustering purpose Annual_income Vs Spending_Score Scatter plotting:<br>
+-            Annual_income Vs Spending_score Plotting: From this plot, we can see that the maximum annual income for customers clustering position is 1.<br>
+            In this clustering area, the target customers are those who have good Annual income and Spending Scores.
+
