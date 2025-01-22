@@ -33,9 +33,9 @@ showing customer segmentation purpose Annual_income Vs Spending_Score plotting:<
 -            Annual_income Distribution: From this plot, we can see that the maximum annual income above $125 is 3 persons who are Males.<br>
 
 <p align="center">
-  This<img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG" alt="Scatter Plot" width="600"/>
+  <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG" alt="Scatter Plot" width="600"/>
 </p>
-<a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG">Scatter Plot</a>,showing customer segmentation by 5 nos.
+This K-Means Clustered<a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-6.JPG">Scatter Plot visualization</a>, showing customer segmentation by 5 nos.
 Clustering purpose Annual_income Vs Spending_Score Scatter plotting:<br>
 -            Annual_income Vs Spending_score Plotting: From this plot, we can see that the maximum annual income for customers clustering position is 1.
              In this clustering area, the target customers are those who have good Annual income and Spending Scores.<br>
