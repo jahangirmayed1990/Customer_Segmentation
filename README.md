@@ -8,10 +8,19 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
 4.	**K-Means Clustering:** Apply the K-Means algorithm to the preprocessed data, specifying the chosen number of clusters. The algorithm iteratively assigns data points to the nearest cluster centroid and updates the centroids until convergence.   
 5.	**Cluster Analysis:** Analyze the resulting clusters to identify patterns and characteristics. Visualize the clusters using scatter plots or other appropriate techniques.
 6.	**Interpretation and Actionable Insights:** Interpret the characteristics of each cluster and develop targeted marketing strategies for each segment.
-### Example Visualization:
+### Example Through Visualization:
 ![Image-1](https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG)
 <a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG">Histogram plot</a>, showing customer segmentation into 3 Potential Segments:
--    Age Distribution: Age Groups 28-35 are the most Frequent Users.  
+-      Age Distribution: Age Groups 28-35 are the most Frequent Users.
+-      Annual_Income Distribution: Customers who have Annaul_Income Range $60 to $75,they are most frequent buyer.
+-      Spending_Score Distribution: Maximum Spending_Score Groups are between the Range of 55 to 58.
+
+![Image-2](https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-2.JPG)
+<a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-1.JPG">Pie Chart</a>, showing customer segmentation through Gender into 2 Segments:
+-      Gender Distribution: From this graph, we can see that most of the customers are Female and, their percentage is 56% and The lowest percentage of Males is 44%.easily illustrate 
+       this, the female customers purchase more products.
+
+  
 •	High-Income Spenders: These customers have high annual incomes and high spending scores. They are likely to be interested in luxury brands and exclusive offers.
 •	Middle-Income Spenders: These customers have moderate annual incomes and moderate spending scores. They are price-conscious but still willing to spend on quality products.
 •	Low-Income Spenders: These customers have low annual incomes and low spending scores. They are likely to be attracted to discounts and promotions.
