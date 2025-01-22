@@ -19,8 +19,8 @@ K-Means Clustering is a popular unsupervised machine learning algorithm that par
   <img src="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-2.JPG" alt="Pie Chart" width="600"/>
 </p>
 <a href="https://github.com/jahangirmayed1990/Customer_Segmentation/blob/main/Image-2.JPG">Pie Chart</a>, showing customer segmentation through Gender into 2 Segments:<br>
--     Gender Distribution: From this graph, we can see that most of the customers are Female and, their percentage is 56% and The lowest percentage of Males is 44%.easily illustrated 
-       this, the female customers purchase more products.
+-            Gender Distribution: From this graph, we can see that most of the customers are Female and, their percentage is 56% and The lowest percentage of Males is 44%.easily     
+             illustrated this, the female customers purchase more products.
 
   
 •	High-Income Spenders: These customers have high annual incomes and high spending scores. They are likely to be interested in luxury brands and exclusive offers.
